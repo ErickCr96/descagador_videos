@@ -1,0 +1,18 @@
+# Entorno virtual
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Videos y audios descargados (por si se guardan en la carpeta del proyecto)
+*.mp4
+*.m4a
+*.webm
+*.mkv
+*.mp3
+*.part
